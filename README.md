@@ -16,7 +16,7 @@ These are just possible entities for Football League database.
     - Role
     - Age
 - **Teams**
-    - Command ID
+    - Team ID
     - Name
 - **Trainers**
     - Trainer ID
