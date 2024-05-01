@@ -3,6 +3,7 @@
 These are just possible entities for Football League database.
 
 **Bold** is an entity.
+*Italic* is a derived attribute.
 
 - **Players**
     - Player ID
@@ -38,6 +39,7 @@ These are just possible entities for Football League database.
         - hour
     - Teams playing
     - Results
-        - Winner
+        - Winner team
+        - *Losing team*
         - Number of goals of winning team
         - Number of goals of losing team
